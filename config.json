@@ -1,0 +1,16 @@
+{
+    "AUTO_TASK" : true,
+    "AUTO_PUZZLE" : true,
+
+    "AUTO_GET_NEW_QUERY_ID": false,
+    "AUTO_WRITE_ERROR": true,
+    "AUTO_SEND_ERROR_TELEGRAM": false,
+    "AUTO_STOP_PROCESS": false,
+    "IS_CHECK_QUERY_ID": false,
+    "NUMBER_TRY_REQUEST": 3,
+    "THREAD": 10,
+    "IS_SLEEP": 600,
+    "BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_NAME_GAME": "Frog Farm"
+}
